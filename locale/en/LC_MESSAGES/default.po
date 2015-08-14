@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr "Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-08-12 20:30\n"
+"PO-Revision-Date: 2015-08-12 20:30\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2.2\n"
+"Language-Team:  <>\n"
+"X-Poedit-Language: english\n"
+
+#. Form1..Caption
+#: Unit1.dfm:4
+msgid "Form1"
+msgstr "Main form"
+
+# Label: ignore
+#. Form1..Font.Name
+#: Unit1.dfm:11
+msgid "Tahoma"
+msgstr ""
+
+#. Form1..Button1..Caption
+#: Unit1.dfm:22
+msgid "Translate me"
+msgstr "Translate"
+
+#. Form1..Button2..Caption
+#: Unit1.dfm:31
+msgid "Format"
+msgstr ""
+
+#. Form1..Button3..Caption
+#: Unit1.dfm:40
+msgid "Plural"
+msgstr ""
+
+#. Form1..Button4..Caption
+#: Unit1.dfm:49
+msgid "Homonym"
+msgstr ""
+
+#: Unit1.pas:37
+msgid "Changing language"
+msgstr "Change language"
+
+#: Unit1.pas:46
+msgid "apples"
+msgstr ""
+
+#: Unit1.pas:48
+msgid "Count of %s : %d"
+msgstr ""
+
+#: Unit1.pas:57
+#: Unit1.pas:59
+msgid "apple"
+msgid_plural "apples"
+msgstr[0] ""
+
+#: Unit1.pas:66
+msgid "bow_music"
+msgstr ""
+
+#: Unit1.pas:67
+msgid "bow_weapon"
+msgstr ""
+
+#: Unit1.pas:69
+msgid "Use %s to shoot enemies."
+msgstr ""
+
+#: Unit1.pas:70
+msgid "Use %s to play violin."
+msgstr ""
+
